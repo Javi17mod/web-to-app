@@ -67,7 +67,7 @@ self.addEventListener('fetch', function(event) {
 - - - -
 # Editing
 
-> [!INFO]\
+> [!NOTE]\
 > If you dont wan't to save your files into the user (**recommended for who update his web every day**), just delete the code of **sw.js** file.
 
 (1/2) Your app name goes here: 
