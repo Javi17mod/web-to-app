@@ -3,7 +3,7 @@ New web to app code, easy to install and **Free**
 > [!IMPORTANT]\
 > You need to have a website.
 >
-# Installing process `1/3`
+# Installing process
 
 (1/3) In your **index.html** file, you need to paste this code: 
 
